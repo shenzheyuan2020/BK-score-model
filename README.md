@@ -40,9 +40,6 @@ The model will give the values of B score and K score for different molecules af
 
 During the operation, please make sure the checkpoint file is under the same path as the jupyter file.
 
-### Contributing
-
-If you are open to contributions, explain how others can contribute to your project. Include any style guides or testing frameworks you're using.
 
 
 
